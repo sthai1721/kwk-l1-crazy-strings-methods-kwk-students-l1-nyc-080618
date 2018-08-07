@@ -1,7 +1,6 @@
 # write your method here
 
-a="hello"
-b="Friends"
+
 
 def crazy_strings(a,b)
   a = a.reverse.upcase
@@ -9,4 +8,4 @@ def crazy_strings(a,b)
   return "#{a} #{b}"
 end
 
-crazy_strings(a,b)
+crazy_strings("hello","friends")
