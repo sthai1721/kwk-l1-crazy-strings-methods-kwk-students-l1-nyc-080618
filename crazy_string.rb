@@ -9,4 +9,4 @@ def crazy_strings(a,b)
   return "#{a} #{b}"
 end
 
-
+crazy_strings(a,b)
